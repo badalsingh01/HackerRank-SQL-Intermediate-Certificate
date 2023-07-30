@@ -12,6 +12,9 @@ This repository contains MySQL solutions of the HackerRank-SQL-Intermediate-Cert
 
 <img width="648" alt="Screenshot 2023-07-30 at 10 03 56 PM" src="https://github.com/badalsingh01/HackerRank-SQL-Intermediate-Certificate/assets/99376974/fcc65894-4b87-4362-8523-fd7043a035bc">
 
+### Here is the certificate which i got
+<img width="1140" alt="Screenshot 2023-07-30 at 10 09 42 PM" src="https://github.com/badalsingh01/HackerRank-SQL-Intermediate-Certificate/assets/99376974/b6fcc41a-6987-4238-ad4d-3d23b1cd5794">
+
 
 
 
